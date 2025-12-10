@@ -1,12 +1,13 @@
 # programaci-n-ll
-## prueba
-![image](./pruebas/prueba.jpg)
+
 ## Menú y funcionalidades
 ![image](./pruebas/Menu.jpg)
 ## Gestión de productos
 ![image](./pruebas/GestionDeProducto.jpg)
 ## Stock
 ![image](./pruebas/stock.jpg)
+## prueba
+![image](./pruebas/prueba.jpg)
 ## Nuevo producto
 ![image](./pruebas/NuevoProducto.jpg)
 ## Compra
