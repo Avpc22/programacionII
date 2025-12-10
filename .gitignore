@@ -1,0 +1,23 @@
+# Compiled files
+bin/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Data files
+datos/
+productos.txt
+tickets.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
